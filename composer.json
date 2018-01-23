@@ -1,6 +1,5 @@
 {
     "name": "igaster/laravel-theme",
-    "version": "master",
     "description": "Laravel 5 Themes: Asset & Views folder per theme. Theme inheritance. Blade integration and more...",
     "keywords": ["themes", "views", "assets", "blade", "laravel-5", "package"],
     "license": "MIT",
